@@ -13,3 +13,6 @@ Mi_clase::setAtribUno(int atribIn){
 Mi_clase::setAtribDos(int atribIn) {
 	atributoDos = atribIn;
 }
+Mi_clase::setAtriTres(int atribIn) {
+	atributoTres = atribIn;
+}
